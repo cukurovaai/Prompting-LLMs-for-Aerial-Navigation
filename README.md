@@ -33,10 +33,10 @@ pip install airsim
 ```
 - Clone the repository.
 ```
-git clone https://github.com/CheesyFrappe/Prompting-LLMs-for-Aerial-Navigation.git
+git clone https://github.com/cukurovaai/Prompting-LLMs-for-Aerial-Navigation.git    
 ```
 - Copy the API keys and paste them in the `API-KEY` field of the `./src/config.json` file.
-- Download the simulation environment from [Releases](https://github.com/CheesyFrappe/Prompting-LLMs-for-Aerial-Navigation/releases/), and unzip the package.
+- Download the simulation environment from [Releases](https://github.com/cukurovaai/Prompting-LLMs-for-Aerial-Navigation/releases/tag/simulation), and unzip the package.
 - Copy `settings.json` to `C:\Users\<username>\Documents\AirSim\`.
 - It is recommended to consult the [documentation](https://microsoft.github.io/AirSim/unreal_custenv/) for additional information on custom simulation environments if needed.
 
